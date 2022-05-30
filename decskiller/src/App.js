@@ -7,4 +7,5 @@ const App = () => {
   return <Search products={products} />
 }
 
+
 export default App;

@@ -25,6 +25,7 @@
     "titleTemplate": "{title}",
     "ancestorSeparator": " > "
   },
+  
   "eslintConfig": {
     "extends": "react-app"
   },
