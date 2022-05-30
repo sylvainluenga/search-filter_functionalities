@@ -1,6 +1,6 @@
 # Search-Engine Application with React by Alex Sylvainb Luenga resolution 
 
-## Introduction
+## Introduction Given by the company
 
 You are implementing search/filter functionalities for an online shop application for your client. A colleague of yours has already implemented some of the functionalities requested by the client, but he is currently on holidays. You have to help finish the remaining functionalities, so the team meets the deadline.
 
